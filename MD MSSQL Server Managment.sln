@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektSemestralny", "ProjektSemestralny.csproj", "{85A29F10-4B1C-41A2-8AAD-B0480A782AB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD MSSQL Server Managment", "MD MSSQL Server Managment.csproj", "{85A29F10-4B1C-41A2-8AAD-B0480A782AB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektSemestralnyUnitTests", "ProjektSemestralnyUnitTests\ProjektSemestralnyUnitTests.csproj", "{96593BB0-851A-4856-A802-6436BBF0B76C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD MSSQL Server ManagmentUnitTests", "ProjektSemestralnyUnitTests\MD MSSQL Server ManagmentUnitTests.csproj", "{96593BB0-851A-4856-A802-6436BBF0B76C}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MD MSSQL Managment Installer", "..\MD MSSQL Managment Installer\Release\MD MSSQL Managment.vdproj", "{9A269424-EE3A-4A8C-8BCF-23F9747017A5}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MD MSSQL Server Managment Installer", "MD MSSQL Server Managment Installer\MD MSSQL Server Managment Installer.vdproj", "{718555B1-7321-4073-B728-7CCEFC2E6C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,9 +22,8 @@ Global
 		{96593BB0-851A-4856-A802-6436BBF0B76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96593BB0-851A-4856-A802-6436BBF0B76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96593BB0-851A-4856-A802-6436BBF0B76C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9A269424-EE3A-4A8C-8BCF-23F9747017A5}.Debug|Any CPU.ActiveCfg = Release
-		{9A269424-EE3A-4A8C-8BCF-23F9747017A5}.Debug|Any CPU.Build.0 = Release
-		{9A269424-EE3A-4A8C-8BCF-23F9747017A5}.Release|Any CPU.ActiveCfg = Release
+		{718555B1-7321-4073-B728-7CCEFC2E6C77}.Debug|Any CPU.ActiveCfg = Debug
+		{718555B1-7321-4073-B728-7CCEFC2E6C77}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
